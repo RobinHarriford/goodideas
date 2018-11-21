@@ -1,0 +1,2 @@
+# goodideas
+A beginning
